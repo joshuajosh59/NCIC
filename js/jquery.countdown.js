@@ -6,8 +6,11 @@
 
 /* Display a countdown timer.
    Attach it with options like:
+   
+   
+	
    $('div selector').countdown(
-       {until: new Date(2009, 1 - 1, 1, 0, 0, 0), onExpiry: happyNewYear}); */
+       {until: new Date(2016, 1 - 1, 1, 0, 0, 0), onExpiry: NCICS 2016 }); */
 
 (function($) { // Hide scope, no $ conflict
 
